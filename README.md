@@ -1,1 +1,2 @@
 # kettlebellcoach
+![Logo](kettlebellLogo.jpg)
