@@ -5,9 +5,9 @@
 
 | Exercises     | Sets     | Reps  |
 | ------------- |:--------:| -----:|
-| KB Swings     | 3        | $1600 |
-| Goblet Squat  | 3        |   $12 |
-| Bent-Over Row | 3        |    $1 |
+| KB Swings     | 3        | 20    |
+| Goblet Squat  | 3        | 10    |
+| Bent-Over Row | 3        | 12    |
 
 
 ### This project is a collaboration between Ed Timmer and Alan Fleming who are both Certified Personal Trainers and Full Stack Developers. 
