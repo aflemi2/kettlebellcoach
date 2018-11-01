@@ -3,6 +3,8 @@ const Exercise = require('./Exercise');
 const Category = require('./Category');
 const User = require('./User');
 const users = require('./users');
+const exercises = require('./exercises');
+const categories = require('./categories');
 
 const seed = () => {
   return Promise.all(categories.map( category => Category.create(category)))
