@@ -16,10 +16,10 @@ router.use((req, res, next) => {
     .catch(() => next({ status: 401 }));
 });
 
-router.use('/users', require('./users'));
-router.use('/categories', require('./categories'));
-router.use('/exercises', require('./exercises'));
-router.use('/workouts', require('./workouts'));
-router.use('/authToken', require('./authToken'));
+// router.use('/users', require('./users'));
+// router.use('/categories', require('./categories'));
+// router.use('/exercises', require('./exercises'));
+// router.use('/workouts', require('./workouts'));
+// router.use('/authToken', require('./authToken'));
 
 module.exports = router;
