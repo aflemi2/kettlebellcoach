@@ -1,4 +1,4 @@
-const conn = require('./conn');
+const conn = require('./connection');
 const { Sequelize } = conn;
 const KEY = process.env.JWT_KEY;
 const jwt = require('jwt-simple');
